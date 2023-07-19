@@ -1,0 +1,6 @@
+[handleMsg]:  {
+  type: 'text',
+  from: '5215582914841',
+  to: '5215574412572',
+  body: 'Hola'
+}
